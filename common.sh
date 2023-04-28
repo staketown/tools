@@ -9,5 +9,5 @@ function printGreen {
 }
 
 function printLogo {
-  bash <(curl -s "https://raw.githubusercontent.com/R1M-NODES/utils/master/logo.sh")
+  bash <(curl -s "https://raw.githubusercontent.com/staketown/utils/master/logo.sh")
 }
